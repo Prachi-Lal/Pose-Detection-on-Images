@@ -22,7 +22,7 @@ The recommendation system follows these steps to suggest similar movies:
 
 ## Results
 
-![Tree Pose Input]([http://url/to/img.png](https://github.com/Prachi-Lal/Pose-Detection-on-Images/blob/main/tree%20pose%20input.png))
+![Tree Pose Input](https://github.com/Prachi-Lal/Pose-Detection-on-Images/blob/main/tree%20pose%20input.png)
 
 ## Contributing
 
