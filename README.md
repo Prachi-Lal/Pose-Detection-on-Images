@@ -23,7 +23,7 @@ The recommendation system follows these steps to suggest similar movies:
 if results.pose_landmarks:
     for i in range(2):
         print(f'{mp_pose.PoseLandmark(i).name}:\n{results.pose_landmarks.landmark[mp_pose.PoseLandmark(i).value]}')
- ```
+
 3. 
 
 ## Results
