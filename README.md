@@ -23,6 +23,9 @@ The recommendation system follows these steps to suggest similar movies:
 ## Results
 
 ![Tree Pose Input](https://github.com/Prachi-Lal/Pose-Detection-on-Images/blob/main/tree%20pose%20input.png)
+![Tree Pose Landmark](https://github.com/Prachi-Lal/Pose-Detection-on-Images/blob/main/tree%20pose%20landmark.png)
+![Tree Pose Output](https://github.com/Prachi-Lal/Pose-Detection-on-Images/blob/main/tree%20pose%20output.png)
+![Warrior Pose Detection](https://github.com/Prachi-Lal/Pose-Detection-on-Images/blob/main/warrior%20pose%20detection.png)
 
 ## Contributing
 
