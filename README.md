@@ -18,11 +18,13 @@ To run this code, ensure that you have the following dependencies installed:
 The recommendation system follows these steps to suggest similar movies:
 
 1. The project employs the MediaPipe library to perform pose detection in images. The pose.process() function is used to analyze the input image and extract pose landmarks.
-   ``` results = pose.process(cv2.cvtColor(sample_image, cv2.COLOR_BGR2RGB))
+   ``` python
+   results = pose.process(cv2.cvtColor(sample_image, cv2.COLOR_BGR2RGB))
 
-if results.pose_landmarks:
-    for i in range(2):
-        print(f'{mp_pose.PoseLandmark(i).name}:\n{results.pose_landmarks.landmark[mp_pose.PoseLandmark(i).value]}')
+   if results.pose_landmarks:
+       for i in range(2):
+           print(f'{mp_pose.PoseLandmark(i).name}:\n{results.pose_landmarks.landmark[mp_pose.PoseLandmark(i).value]}')
+   ```
 
 3. 
 
